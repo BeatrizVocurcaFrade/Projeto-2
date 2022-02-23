@@ -1,0 +1,29 @@
+h2, p {
+  display: flex;
+  height: 30px;
+  font-family: Love Ya Like A Sister;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 24px;
+  line-height: 30px;
+  color: #211103;
+  padding: 30px;
+  text-align: center;
+  justify-content: center;
+  vertical-align: middle
+}
+p {
+  color: #ED254E;
+  padding-bottom: 0px;
+
+}
+.more {
+  justify-content: center;
+  text-align: center;
+  display: flex;
+  padding-bottom: 20px;
+}
+
+.dogs {
+  justify-content: space-between;
+}
